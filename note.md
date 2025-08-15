@@ -1,0 +1,1 @@
+## token22 hook extension can affect confidential transfer extension
