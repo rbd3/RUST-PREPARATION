@@ -2,6 +2,9 @@
 Understand accounts, instructions, cross-program invocations (CPI), and the runtime. Solana programs are stateless and use PDAs (program-derived addresses) heavily.
 
 ### Resources:
+**https://github.com/sannykim/solsec?tab=readme-ov-file**
+
+***https://neodyme.io/en/blog/token-2022/#security-implications-6***
 
 SPL Token-2022 docs (docs.spl.solana.com/token/extensions/confidential-transfers).
 GitHub repo: Explore spl-token-2022 crate (github.com/solana-labs/solana-program-library/tree/master/token/program-2022)
